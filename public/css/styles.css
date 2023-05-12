@@ -1,0 +1,31 @@
+.user_logo{
+    position: absolute;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 65px;
+    width: 100px; 
+    height: 100px;
+    z-index: 9;
+    background: rgba(0, 255, 242, 0.2);
+    padding: 2px;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.user_logo img {
+    width: 100%;
+}
+
+#browse-image{
+    cursor: pointer;
+    background: #E1A60A;
+    color: #F6F6F6;
+    width: 110px;
+    padding-bottom: 4px;
+    margin: 0 auto;
+}
+
+#logo {
+    height: 35px;
+    width: 35px;
+}
